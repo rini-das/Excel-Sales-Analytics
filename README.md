@@ -28,9 +28,9 @@ This project includes a comprehensive set of reports aimed at analyzing AtliQ Ha
 ## Skills
 
 ### Technical Skills
-1. Proficient in ETL processes, Power Query, and Power BI for data modeling and analysis.
+1. Proficient in ETL processes, Power Pivot.
 2. Advanced in DAX for creating dynamic measures and calculated columns.
-3. Experienced in building financial reports (P&L, market performance) and customer performance analysis.
+3. Experienced in building financial reports.
 
 ### Soft Skills
 1. Skilled in designing user-focused, optimized reports.
