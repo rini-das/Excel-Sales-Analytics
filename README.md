@@ -1,8 +1,48 @@
-# Excel-Sales-Analytics
+# EXCEL-SALES-ANALYTICS
 
 This project includes a comprehensive set of reports aimed at analyzing AtliQ Hardwares' financial and market performance over several years. The reports provide insights into the company’s performance in terms of market, customer metrics, and Profit and Loss (P&L) statements.
 
+I developed this project as part of the Codebasics Data Analytics Bootcamp, which provided Step by step practical guidance on building data-driven dashboards. 
 
+I’m attaching the Bootcamp link in case you’d like to check it out:
+
+[![Codebasics](https://img.shields.io/badge/Codebasics-ADD8E6?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codebasics.io/)
+
+## **🔗 Connect with Me**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinivbdas09/)
+
+
+## **🔗 Uncover more of my Professional Journey**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my.novypro.com/rini-das)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rini-das)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/rinidas)
+
+## **AtliQ Technologies**
+AtliQ Technologies is a dynamic and innovative company that specializes in providing high-quality hardware solutions to businesses and individuals. With a mission to deliver cutting-edge technology and exceptional customer service, AtliQ has established itself as a trusted name in the industry.
+
+### **Products and Services :**
+AtliQ Technologies offers a wide range of hardware products designed to meet diverse customer needs:
+
+- **Consumer Electronics:** High-performance laptops, desktops, and accessories.
+- **Networking Solutions:** Routers, switches, and advanced network infrastructure components.
+- **Enterprise Hardware:** Servers, storage devices, and business-grade computing systems.
+- **Smart Home Devices:** Smart security systems, home automation tools, and IoT-enabled products.
+
+### **Target Consumers:**
+AtliQ caters to a broad audience, including:
+
+- **Individual Customers:** Tech enthusiasts and everyday consumers seeking reliable and innovative hardware solutions.
+- **Small and Medium Businesses (SMBs):** Enterprises looking for cost-effective and efficient computing and networking solutions.
+- **Corporate Clients:** Large organizations requiring scalable and robust hardware infrastructure for their operations.
+- **Educational Institutions:** Schools, colleges, and universities in need of technology solutions for classrooms and labs.
+
+## **Customer Base:**
+AtliQ’s customers span across industries and geographies, including:
+
+- **Retailers and Distributors:** Partnering with B2B channels to reach broader markets.
+- **IT Service Providers:** Supporting managed IT services and hardware resale.
+- **Government Agencies:** Supplying secure and compliant hardware for public sector projects.
+- **End Users:** Individuals purchasing directly from online platforms or retail outlets.
 ### 1. Market Performance vs Target Report
 
 - This report presents a detailed comparison between AtliQ Hardwares' actual market performance and their predefined targets. 
